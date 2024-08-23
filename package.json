@@ -3,10 +3,21 @@
   "displayName": "0chunks theme",
   "description": "0chunks dark theme for vscode.",
   "version": "0.0.1",
+  "publisher": "madhanmaaz",
   "author": {
     "name": "madhanmaaz",
     "url": "https://madhanmaaz.netlify.app"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madhanmaaz/0chunks-theme"
+  },
+  "keywords": [
+    "dark theme",
+    "simple theme",
+    "cool theme",
+    "professional theme"
+  ],
   "engines": {
     "vscode": "^1.54.0"
   },
